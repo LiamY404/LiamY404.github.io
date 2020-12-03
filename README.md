@@ -10,5 +10,6 @@ Now I've learned to change the line without using "enter"
 - 可以输中文吗？？ 
 - 真的可以了...我是傻子... 
  
-Now you can try the link(Copy the link and paste it in your browser)：
+# Now you can try the link(Copy the link and paste it in your browser)：
+## 热力学
 [Syllabus of the thermaldynamic ](https://liamy404.github.io/Syllabus%20of%20the%20Thermaldynamic)

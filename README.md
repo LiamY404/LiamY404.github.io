@@ -3,7 +3,7 @@ I'm trying to put my notes online.
 Welcome to read them. 
 - oh it works!!!
 - 可以输中文吗？？ 
-- 真的可以了...我是傻子... 
+- 真的可以了...我是傻子...  
 目前是纯文本界面，也许哪天闲的时候会把它变好看一点点。
  
 
